@@ -65,7 +65,7 @@ Welcome to the **Cross-Border Quote API**! This API provides real-time USDT-to-f
 
    ```bash
    # Run TypeORM migrations to create the quotes table
-   npm run typeorm:migration:run
+   npm run migration:run
    ```
 
 ## Configuration
@@ -95,6 +95,8 @@ The application will be available at `http://localhost:3000`.
 ## API Documentation
 
 The API documentation is available in Postman formats:
+
+https://documenter.getpostman.com/view/36399546/2sB34eKhh3
 
 ## Contributing
 
